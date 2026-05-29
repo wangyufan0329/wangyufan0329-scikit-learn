@@ -50,7 +50,7 @@ Some advantages of decision trees are:
   possible to account for the reliability of the model.
 
 - Performs well even if its assumptions are somewhat violated by
-  the true model from which the data were generated.
+  the true model from which the data were generated.   
 
 
 The disadvantages of decision trees include:
